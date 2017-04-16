@@ -1,0 +1,17 @@
+Magazinum Theme
+
+http://www.wpzoom.com/themes/magazinum/
+
+
+ 
+CHANGELOG
+---------------------------
+
+V 1.1
+
+	- minor bug fixes in style.css file.
+	- /scripts/timthumb.php file updated
+	
+V 1.0
+
+	- initial version

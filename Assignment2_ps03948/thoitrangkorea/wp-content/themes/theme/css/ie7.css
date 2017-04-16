@@ -1,0 +1,48 @@
+.downarrowclass {
+	padding:0;
+}
+
+.rightarrowclass {
+	padding:0;
+}
+
+.headings img { clear:both; display:block;}
+
+.jcarousel-clip {
+	float:left; display:block;
+}
+
+#menu {
+	display:block; 
+	clear:both;
+	margin-bottom:50px;
+}
+
+/** magazinum **/
+#searchform fieldset {
+	
+}
+
+#searchform { width:220px }
+
+#searchform #s { 
+	float: left;
+ }
+#searchsubmit {
+	float: left;
+	display: block;
+	font-size: 0;
+ 	line-height: 0;
+}
+.featured_cat ul li {
+	margin: 0 0 4px; 
+}
+.featured_cat ul li a {
+	display: inline-block;
+}
+.featured_cat ul li a {
+	display: block; padding: 0 5px; line-height: 20px; color: #000; text-decoration: none; position: relative; z-index: 2;
+}
+.featured_cat ul li b {
+	height: 20px; width: 20px; position: absolute; display: block; z-index: 1;
+}

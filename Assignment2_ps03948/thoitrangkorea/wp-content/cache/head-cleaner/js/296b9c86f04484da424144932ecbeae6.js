@@ -1,0 +1,1 @@
+document.write('<style type="text/css">.tabber{display:none;}</style>');
